@@ -113,6 +113,56 @@
 //Console.WriteLine("T1: " + t1);
 //Console.WriteLine("T2: " + t2);
 
+///*
+// * The Dominion of Kings
+// */
+//int estates, dutchies, provinces, total;
+//Console.WriteLine("Please input the amount of Estates you own: ");
+//estates = int.Parse(Console.ReadLine());
+//Console.WriteLine("Please input the amount of Dutchies you own: ");
+//dutchies = int.Parse(Console.ReadLine());
+//Console.WriteLine("Please input the amount of Provinces you own: ");
+//provinces = int.Parse(Console.ReadLine());
 
+//total = estates + (dutchies * 3) + (provinces * 6);
+
+//Console.WriteLine("Your total worth is: " + total);
+
+///*
+// * The Fours Sisters and the Duckbear
+// */
+//int eggs, sistersEggs, duckbearEggs;
+//Console.WriteLine("Please enter how many eggs you have gathered today: ");
+//eggs = int.Parse(Console.ReadLine());
+
+//sistersEggs = eggs / 3;
+//duckbearEggs = eggs % 3;
+
+//Console.WriteLine("Each sister gets " + sistersEggs + " eggs.");
+//Console.WriteLine("The duckbear gets " + duckbearEggs + " eggs.");
+
+///*
+// * The Guidestone - Part 1
+// */
+//double radius, area;
+//Console.WriteLine("Please enter the radius of the circle:");
+//radius = double.Parse(Console.ReadLine());
+
+//area = Math.PI * (Math.Pow(radius, 2));
+
+//Console.WriteLine("The area of the circle is: " + area);
+
+///*
+// * The Guidestone - Part 2
+// */
+//double x, y, distance;
+//Console.WriteLine("Please enter the x co-ordinate distance:");
+//x = double.Parse(Console.ReadLine());
+//Console.WriteLine("Please enter the y co-ordinate distance:");
+//y = double.Parse(Console.ReadLine());
+
+//distance = Math.Sqrt((Math.Pow(x, 2) + Math.Pow(y, 2)));
+
+//Console.WriteLine("The distance between the points is: " + distance);
 
 Console.ReadKey();
