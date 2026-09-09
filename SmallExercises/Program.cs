@@ -1,4 +1,4 @@
-﻿TheGuidestonePart2 exercise = new();
+﻿TheEnclaveGateway exercise = new();
 
 exercise.Run();
 
