@@ -1,4 +1,4 @@
-﻿AnInterpolationExperiment exercise = new();
+﻿Retrieval exercise = new();
 
 exercise.Run();
 
