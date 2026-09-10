@@ -1,5 +1,6 @@
-﻿TheEnclaveGateway exercise = new();
+﻿MustGoFaster exercise = new();
 
 exercise.Run();
 
 Console.ReadKey();
+
