@@ -1,4 +1,4 @@
-﻿Retrieval exercise = new();
+﻿GettingFancy exercise = new();
 
 exercise.Run();
 
