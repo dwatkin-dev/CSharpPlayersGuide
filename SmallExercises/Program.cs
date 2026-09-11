@@ -1,4 +1,4 @@
-﻿Map exercise = new();
+﻿AMethodExperiment exercise = new();
 
 exercise.Run();
 
