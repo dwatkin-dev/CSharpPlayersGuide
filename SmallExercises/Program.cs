@@ -1,4 +1,4 @@
-﻿ThePrototype exercise = new();
+﻿Map exercise = new();
 
 exercise.Run();
 
