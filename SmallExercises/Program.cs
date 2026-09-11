@@ -1,4 +1,4 @@
-﻿GettingFancy exercise = new();
+﻿ThePrototype exercise = new();
 
 exercise.Run();
 
