@@ -1,4 +1,4 @@
-﻿AMethodExperiment exercise = new();
+﻿FastFill exercise = new();
 
 exercise.Run();
 
