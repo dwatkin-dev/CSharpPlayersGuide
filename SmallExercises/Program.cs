@@ -1,4 +1,4 @@
-﻿FastFill exercise = new();
+﻿StackSmashing exercise = new();
 
 exercise.Run();
 
