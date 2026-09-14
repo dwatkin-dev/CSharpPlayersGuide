@@ -1,4 +1,4 @@
-﻿StackSmashing exercise = new();
+﻿SimulasRecipes exercise = new();
 
 exercise.Run();
 
