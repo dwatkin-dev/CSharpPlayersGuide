@@ -1,4 +1,4 @@
-﻿SimulasRecipes exercise = new();
+﻿ComparingArrows exercise = new();
 
 exercise.Run();
 
