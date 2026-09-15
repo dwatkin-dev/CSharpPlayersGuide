@@ -17,6 +17,18 @@ public class Arrow
     public ArrowheadShape Arrowhead;
     public FletchingType Fletching;
 
+    public Arrow(float weight,  ArrowheadShape arrowhead, FletchingType fletching)
+    {
+        Weight = weight;
+        Arrowhead = arrowhead;
+        Fletching = fletching;
+    }
+
+    public Arrow()
+    {
+        // Empty constructor to keep VinFletchersArrows and ComparingArrows working.
+    }
+
     public float GetDamage()
     {
         int baseDamage = Arrowhead switch

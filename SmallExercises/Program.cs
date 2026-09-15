@@ -1,4 +1,4 @@
-﻿ComparingArrows exercise = new();
+﻿CustomArrows exercise = new();
 
 exercise.Run();
 
