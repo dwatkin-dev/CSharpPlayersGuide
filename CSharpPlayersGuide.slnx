@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Armored/Armored.csproj" Id="06ebced1-266e-413e-a8b1-6d25c67ced65" />
+  <Project Path="Dueling/Dueling.csproj" Id="e98cac8e-91c8-4a70-9483-ba0fd8870a40" />
   <Project Path="Minesweeper/Minesweeper.csproj" Id="93d6222a-78ab-45ff-a9d5-f65abe01087d" />
   <Project Path="Scratchpad/Scratchpad.csproj" Id="4acecb8f-1104-4d96-ac44-2bb2cc4274f6" />
   <Project Path="TheUmbra/TheUmbra.csproj" Id="9b340e52-81a7-470b-9297-b53262ce34db" />
